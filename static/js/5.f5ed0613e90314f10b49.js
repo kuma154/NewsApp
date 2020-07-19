@@ -1,0 +1,2 @@
+webpackJsonp([5],{gPeY:function(e,t){},slNN:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={components:{Center:n("gJ8x").a}},s={render:function(){var e=this.$createElement,t=this._self._c||e;return t("Center",[t("img",{attrs:{src:"https://img13.51tietu.net/pic/20200117/plpqrogiykaplpqrogiyka.jpg",alt:"",srcset:""}})])},staticRenderFns:[]};var i=n("VU/8")(r,s,!1,function(e){n("gPeY")},null,null);t.default=i.exports}});
+//# sourceMappingURL=5.f5ed0613e90314f10b49.js.map
